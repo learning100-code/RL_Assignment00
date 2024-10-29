@@ -25,6 +25,6 @@ _Deep Q-Networks (DQN)_ is a foundational deep reinforcement learning algorithm 
 
 ## Usage
 
-To train the PPO agent simply run all the cells in **the-ppo-agent.ipynb**
-To train the QDN agent simply run all the cells in **DQN_Variants.ipynb**
+To train the PPO agent simply run all the cells in **the-ppo-agents.ipynb**
+To train the QDN agent simply run all the cells in **DQN_Variants_.ipynb**
 
